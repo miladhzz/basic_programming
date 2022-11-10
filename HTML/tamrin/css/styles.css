@@ -1,0 +1,70 @@
+a {
+    text-decoration:none;
+    color:#282a35;
+}
+.div-form {
+    border:1px solid #e3e3e3;
+    width: 400px;
+    border-radius: 10px; 
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-top: 140px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.div-password {
+    margin-top: 20px;
+}
+
+.div-password > label {
+    margin-right: 250px;
+}
+
+.label-email {
+    margin-right: 150px;
+    color: #04aa6d;
+}
+
+.div-submit {
+    margin-top: 20px; margin-bottom: 20px; width: 90%;
+}
+.div-submit > input {
+    color: white; font-weight: bold; width: 100%; height: 35px; background-color: #04aa6d; border-radius: 50px; border: 0;
+}
+.div-forgot {
+    text-align: center;
+}       
+.div-copyright {
+    width: 550px;
+    margin-top: 300px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+.input {
+    width: 353px;
+    margin-top: 5px;
+    height: 22px; 
+    padding: 5px; 
+    margin-bottom: 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.boxes {
+    width: 300px;
+    height: 300px;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+}
+
+div.boxes:hover {
+    background-color: #282a35;
+}
